@@ -1,0 +1,61 @@
+﻿<header class="header-cadastrar">
+        <nav class="navbar navbar-expand-lg navbar-light ">
+            <div class="container-fluid">
+              <a class="navbar-brand" asp-controller="Home" asp-action="Index">
+                  <img src="/img/logo.png" alt="">
+              </a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+
+              <div class="collapse navbar-collapse  justify-content-end" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                    <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" asp-controller="Home" asp-action="Promocoes">PROMOÇÕES</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" asp-controller="Home" asp-action="Destinos">DESTINOS</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" hasp-controller="Home" asp-action="Cadastrar">CADASTRAR</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link"asp-controller="Home" asp-action="Contato">CONTATO</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+    </header>    
+
+<main>
+      <div class="cards-cadastros">
+       <div class="card-int">
+            <h3 class="text-center mt-1">Cadastrar NOVO destino</h3>
+            <form class="card-fix">
+                <label for="destinos">Novo Destino:</label>
+                <input type="text" name="destinos" placeholder="Digite novo destino">
+
+                <label for="tarifa">Valor do pacote:</label>
+                <input type="text" name="tarifa" placeholder="Digite nova tarifa">
+
+                <input type="button"class="btn" value="CADASTRAR">
+            </form>
+            </div>
+        <div class="card-int">
+            <h3 class="text-center mt-1">Comprar NOVO destino</h3>
+            <form  class="card-fix">
+                <label for="destinos">Escolha seu destino:</label>
+                <input type="text" name="destinos" placeholder="Digite novo destino">
+
+                <label for="tarifa">Data da sua viagem:</label>
+                <input type="date" name="tarifa" placeholder="Digite nova tarifa">
+
+                <input type="button" class="btn" value="CADASTRAR">
+            </form>
+        </div>
+      </div>
+    </main>

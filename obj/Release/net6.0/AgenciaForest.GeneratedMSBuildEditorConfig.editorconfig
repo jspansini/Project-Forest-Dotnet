@@ -1,0 +1,96 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AgenciaForest
+build_property.RootNamespace = AgenciaForest
+build_property.ProjectDir = C:\Users\Fotomovel\Desktop\recuperação\módulo 3 - CSharp\final\Projeto C# Aluna Jessica\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Fotomovel\Desktop\recuperação\módulo 3 - CSharp\final\Projeto C# Aluna Jessica
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/CadastrarPassagems/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cmFyUGFzc2FnZW1zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/CadastrarPassagems/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cmFyUGFzc2FnZW1zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/CadastrarPassagems/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cmFyUGFzc2FnZW1zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/CadastrarPassagems/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cmFyUGFzc2FnZW1zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/CadastrarPassagems/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkYXN0cmFyUGFzc2FnZW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/ComprarPassagems/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhclBhc3NhZ2Vtc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/ComprarPassagems/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhclBhc3NhZ2Vtc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/ComprarPassagems/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhclBhc3NhZ2Vtc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/ComprarPassagems/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhclBhc3NhZ2Vtc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/ComprarPassagems/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhclBhc3NhZ2Vtc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/Home/Cadastrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWRhc3RyYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/Home/Contato.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/Home/Destinos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXN0aW5vcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/Home/Promocoes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9tb2NvZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fotomovel/Desktop/recuperação/módulo 3 - CSharp/final/Projeto C\# Aluna Jessica/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ii6xyxopen

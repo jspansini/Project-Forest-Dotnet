@@ -1,0 +1,92 @@
+﻿@model IEnumerable<AgenciaForest.Models.ComprarPassagem>
+
+@{
+    ViewData["Title"] = "Index";
+}
+ <header>
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <div class="container-fluid">
+              <a class="navbar-brand" asp-controller="Home" asp-action="Index">
+                  <img src="/img/logo.png" alt="">
+              </a>
+              <button class="navbar-toggler" type="button" tab-pane fade data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation" bg="white">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                <ul class="navbar-nav">
+                  
+                    
+                  
+                  <li class="nav-item">
+                    <a class="nav-link" asp-controller="Home" asp-action="Index">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" asp-controller="Home" asp-action="Promocoes">PROMOÇÕES</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" asp-controller="Home" asp-action="Destinos">DESTINOS</a>
+                  </li>
+                
+                   <li class="nav-item">
+                    <a class="nav-link"asp-controller="CadastrarPassagems" asp-action="Index">CADASTRO PASSAGENS</a>
+                  </li>
+
+                   <li class="nav-item">
+                    <a class="nav-link"asp-controller="ComprarPassagems" asp-action="Index">COMPRAR PASSAGENS</a>
+                  </li>
+
+                   <li class="nav-item">
+                    <a class="nav-link"asp-controller="Home" asp-action="Contato">CONTATO</a>
+                  </li>
+
+
+
+                </ul>
+              </div>
+            </div>
+          </nav>
+    </header>
+
+<div class="container">
+    <h1>Sistema de compra de Nova Passagem</h1>
+
+    <p>
+        <a asp-action="Create">Criar novo</a>
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Seu Nome
+                </th>
+                <th>
+                    Telefone
+                </th>
+                <th>
+                   Destinos Comprados
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+    @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DestinoPassagem)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ValorPassagem)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CadastrarPassagem.DestinoPassagem)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.IdPassagem">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.IdPassagem">Detalhes</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IdPassagem">Deletar</a>
+                </td>
+            </tr>
+    }
+        </tbody>
+    </table>
+   </div>
